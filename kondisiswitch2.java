@@ -4,7 +4,7 @@ public class kondisiswitch2 {
     public static void main(String[] args) {
         Scanner input= new Scanner(System.in);
 
-        int hari = 3;
+        int hari = 2;
         String nohari = input.nextLine(); 
         switch (hari){
             case 1: 
