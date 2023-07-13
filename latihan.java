@@ -24,7 +24,7 @@ public class latihan {
         System.out.println("anda gagal");
 
        }else{
-        System.out.println("nilai anada adalah");
+        System.out.println("nilai anada adalah =" + grade);
 
        }
 
