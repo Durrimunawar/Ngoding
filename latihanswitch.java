@@ -2,7 +2,7 @@ public class latihanswitch {
     public static void main (String[]args) {
 
        
-               int bulan = 7;
+               int bulan = 13;
                String namaBulan;
          
                switch(bulan){
@@ -19,7 +19,7 @@ public class latihanswitch {
                      namaBulan = "April";
                      break;
                   case 5:
-                     namaBulan = "Mei";
+                     namaBulan = "Mei"; 
                      break;
                   case 6:
                      namaBulan = "Juni";

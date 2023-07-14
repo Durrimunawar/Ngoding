@@ -1,5 +1,7 @@
-class arrayan;
+public class arrayan {
+    public static void main(String[] args) {
+}
 
-public static void main(String[] args) {
+
     
 }
